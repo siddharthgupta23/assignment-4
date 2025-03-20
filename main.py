@@ -1,4 +1,4 @@
-#"A simple billing system developed as a learning exercise to understand basic billing processes and Python programming.
+#"A simple billing system developed as a learning exercise to understand basic billing processes and Python programming.it is just example of billing system
 import sys
 import mysql.connector
 from PySide6.QtWidgets import QApplication, QWidget, QVBoxLayout, QLabel, QLineEdit, QPushButton, QTextEdit, QMessageBox, QTableWidget, QTableWidgetItem
